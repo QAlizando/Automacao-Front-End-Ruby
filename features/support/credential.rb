@@ -2,8 +2,8 @@
 
 CREDENTIAL = {
     user:{
-      email: 'Testedasilva.qa@gmail.com',
-      password: '4mrieeu4'
+      email: '',
+      password: ''
   },
 
   invalid_user:{
